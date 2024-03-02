@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Amir Bazgir (And I'll be your CodeChef!)
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <a href="https://b-amir.link" target="_blank" target="_blank" rel="noopener noreferrer">
+    <a href="https://b-amir.link" target="_blank" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; cursor: pointer !important;">
         <img src="https://github.com/b-amir/b-amir/blob/main/portfolio%20cover.png?raw=true" alt="Portfolio Cover" width="250"/>
     </a>
     <span style="width: 150px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <a href="https://b-amir.storage.iran.liara.space/resume/Amir_Bazgir_Resume.pdf" target="_blank" target="_blank" rel="noopener noreferrer">
+    <a href="https://b-amir.storage.iran.liara.space/resume/Amir_Bazgir_Resume.pdf" target="_blank" target="_blank" rel="noopener noreferrer" style="text-decoration: none !important; cursor: pointer !important;">
         <img src="https://github.com/b-amir/b-amir/blob/main/resume%20cover-min.png?raw=true" alt="Resume Cover" width="250"/>
     </a>
 </div>
