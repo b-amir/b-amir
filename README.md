@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Amir Bazgir
-#### And I'll be your CodeChef!
+### Hi there 👋 I'm Amir Bazgir (And I'll be your CodeChef!)
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://b-amir.link" target="_blank" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/b-amir/b-amir/blob/main/portfolio%20cover.png?raw=true" alt="Portfolio Cover" width="250"/>
